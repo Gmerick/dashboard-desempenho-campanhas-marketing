@@ -1,0 +1,36 @@
+{
+  "name": "Marketing Performance Portfolio",
+  "dataColors": ["#7C3AED", "#22C55E", "#38BDF8", "#F59E0B", "#EF4444", "#A78BFA"],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#7C3AED",
+  "good": "#16A34A",
+  "neutral": "#F59E0B",
+  "bad": "#DC2626",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{
+          "show": true,
+          "fontFamily": "Segoe UI Semibold",
+          "fontSize": 12,
+          "fontColor": {"solid": {"color": "#0F172A"}}
+        }],
+        "background": [{
+          "show": true,
+          "color": {"solid": {"color": "#FFFFFF"}},
+          "transparency": 0
+        }]
+      }
+    },
+    "card": {
+      "*": {
+        "labels": [{
+          "fontFamily": "Segoe UI Semibold",
+          "fontSize": 24,
+          "color": {"solid": {"color": "#0F172A"}}
+        }]
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+# O projeto analítico usa Excel, SQL e Power BI.
+# Python 3.10+ é usado apenas nos utilitários reproduzíveis de geração e carga.
